@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T18:35:41.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="YVy6CMoRPwYIYjUhY7Ys" version="12.1.4" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-10-28T15:35:12.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="ZTcIhcv06ryZn2NQbBoX" version="12.1.4" type="github" pages="2">
   <diagram id="dTyPhZLP6kCn0ImM9EkT" name="Page-1">
     <mxGraphModel dx="1703" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -17,25 +17,28 @@
           <mxGeometry x="180" y="630" width="140" height="98" as="geometry"/>
         </mxCell>
         <mxCell id="20XxvMeio7RMHBe6kfJr-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;dotnetRDF&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;.Net API&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11pt&quot;&gt;for RDF and SPARQL&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="425" width="220" height="110" as="geometry"/>
+          <mxGeometry x="330" y="490" width="370" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="20XxvMeio7RMHBe6kfJr-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Trinity RDF&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;.Net ORM for RDF&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="295" width="220" height="110" as="geometry"/>
+          <mxGeometry x="330" y="370" width="370" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="20XxvMeio7RMHBe6kfJr-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;OLGA&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;SDK to generate&amp;nbsp;&lt;/span&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Object Library from Ontology&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="150" width="220" height="110" as="geometry"/>
+          <mxGeometry x="330" y="250" width="370" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="20XxvMeio7RMHBe6kfJr-5" value="&lt;font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;OWL&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Knowledge representation language&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="627.5" width="140" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="20XxvMeio7RMHBe6kfJr-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;App&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;Client application code&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="20" width="220" height="110" as="geometry"/>
+        <mxCell id="20XxvMeio7RMHBe6kfJr-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Application&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;Client application code&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="370" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="0m9PKHbdkm4g6A7GmWB4-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;StarDog&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;RDFS/OWL Triple Store Database&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="490" width="240" height="110" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Ce4jEufE9DC_f-GMfXaR" name="Page-2">
-    <mxGraphModel dx="1117" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="N0MVFpUgT_LaEKUYDTvT-0"/>
         <mxCell id="N0MVFpUgT_LaEKUYDTvT-1" parent="N0MVFpUgT_LaEKUYDTvT-0"/>
